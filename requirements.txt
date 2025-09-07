@@ -7,3 +7,4 @@ langchain-community
 pymupdf
 python-docx
 langchain-openai
+pypdf
